@@ -5,14 +5,16 @@ package com.cn.myweb;
  */
 public class Test {
 
-        public void te(){
+    public void te(){
        if(2==2){
            System.out.println("sssss1");
        }
     }
 
     public void tdd(){
-
+        if(2==2){
+            System.out.println("sssss1");
+        }
     }
 
     public void td(){
