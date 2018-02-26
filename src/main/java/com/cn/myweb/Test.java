@@ -12,7 +12,9 @@ public class Test {
     }
 
     public void tdd(){
-
+        if(1==1){
+           System.out.println("sssss2");
+       }
     }
 
     public void td(){
