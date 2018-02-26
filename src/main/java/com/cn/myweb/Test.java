@@ -5,7 +5,7 @@ package com.cn.myweb;
  */
 public class Test {
 
-    public void te(){
+        public void te(){
        if(2==2){
            System.out.println("sssss1");
        }
