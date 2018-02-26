@@ -12,8 +12,8 @@ public class Test {
     }
 
     public void tdd(){
-        if(2==2){
-            System.out.println("sssss1");
+        if(1==2){
+            System.out.println("sssss2");
         }
     }
 
