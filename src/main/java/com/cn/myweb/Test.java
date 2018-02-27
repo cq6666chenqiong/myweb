@@ -9,12 +9,14 @@ public class Test {
     public void te(){
        if(2==2){
            System.out.println("sssss1");
+           System.out.println("ssss");
        }
     }
 
     public void tdd(){
         if(1==2){
             System.out.println("sssss2");
+            System.out.println("ssss");
         }
         
     }
