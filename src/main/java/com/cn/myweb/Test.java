@@ -9,19 +9,22 @@ public class Test {
     public void te(){
        if(2==2){
            System.out.println("sssss1");
-           System.out.println("ssidsy1");
+           System.out.println("ssidseee1");
+           System.out.println("ssssss");
        }
     }
 
     public void tdd(){
-        if(1==2) {
+        if(1==2){
             System.out.println("sssss2");
             System.out.println("ssidsy1");
+            System.out.println("ssss");
         }
+        
     }
 
     public void td(){
-        System.out.println("ssidsy1");
+
     }
 
     public void td1(){
